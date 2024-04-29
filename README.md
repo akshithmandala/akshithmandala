@@ -3,8 +3,6 @@
 - 🌱 I’m currently learning Data structures and algorithms in java and MERN stack
 - 💞️ I’m looking to collaborate on programming
 - 📫 How to reach me: best by email: goudmandala@iitgn.ac.in
-- 😄 Pronouns: 
-- ⚡ Fun fact: ...
 
 <!---
 akshithmandala/akshithmandala is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
