@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Akshith Goud
 - 👀 I’m interested in Java Programming, web development and python
 - 🌱 I’m currently learning Data structures and algorithms in java and MERN stack
-- 💞️ I’m looking to collaborate on programming
+- 💞️ I’m looking to collaborate on web development projects and programming in DSA 
 - 📫 How to reach me: best by email: goudmandala@iitgn.ac.in
 
 <!---
